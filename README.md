@@ -31,8 +31,32 @@
 
 ---
 
+
+## 📸 Screenshot
+
+<p align="center">
+  <img src="ssss.PNG" width="80%" alt="UI Screenshot">
+</p>
 ## 🧪 How to Use
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to fork the repo and create a pull request.
+
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/manishinit26/Gradient-Selector.git
+
+  
+## 🙋‍♂️ Author
+
+**Manish Sharma**  
+B.Tech IT Final Year Student  
+[GitHub]([(https://github.com/manishinit26)])
+
+---
+
+⭐ If you liked the project, don’t forget to leave a star!
