@@ -55,7 +55,7 @@ Feel free to fork the repo and create a pull request.
 
 **Manish Sharma**  
 B.Tech IT Final Year Student  
-[GitHub]([(https://github.com/manishinit26)])
+[GitHub](https://github.com/manishinit26)
 
 ---
 
