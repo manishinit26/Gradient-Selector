@@ -19,7 +19,7 @@
 - 🚀 Real-time background updates  
 - 📋 One-click CSS code copy  
 - 💅 Hover effects with smooth animations  
-- 📱 Responsive and visually appealing UI  
+- 📱 Responsive and visually appealing UI.  
 
 ---
 
